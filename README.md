@@ -29,7 +29,7 @@ Had to redo the routing like 5 times but it should all be good now X3
 Still a work in progress!!! Im using kmk to write it, but I have a lot to learn first tho....\
 <sub>I've never used python before:3</sub>
 
-## BOM
+## [BOM](https://raw.githubusercontent.com/TheBigBlahaj/HackpadV1/refs/heads/main/HackPad%20BOM.csv) <sub>linked the csv here</sub> 
 - 1x Case (From CAD file)
 - 1x Seeed XIAO RP2040 
 - 1x 0.91 inch OLED 
