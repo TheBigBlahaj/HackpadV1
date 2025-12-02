@@ -10,7 +10,7 @@ My first project through hackclub!!! I kinda feel like I missed out on a lot by 
 ## CAD 
 Made with a combo of Fusion and Onshape! (dont ask...)
 
-![()]
+![meow](https://hc-cdn.hel1.your-objectstorage.com/s/v3/270cdb58b806dd5ffc7fc664e083cb5672925a07_image.png)
 
 You'll need to make a I2C wire to plug the OLED into the pin header on the PCB
 
@@ -18,17 +18,17 @@ You'll need to make a I2C wire to plug the OLED into the pin header on the PCB
 
 | **Schematic** | **PCB** |
 |---------------|---------|
-|![]()|![]()|
+|![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8defb17094c8f837836a875fcd88dd41c44d8bd9_image.png)|![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0ff9c42a188ef1676bd40c6d8fa972f5edcd486e_image.png)|
 
-![()]
+![]()
 
 Had to redo the routing like 5 times but it should all be good now X3
 
 ## Firmware 
 
 Still a work in progress!!!
-Im using kmk to write it though, I have a lot to learn first tho....
-<small>I've never used python before:3</small>
+Im using kmk to write it though, I have a lot to learn first tho....\
+<sub>I've never used python before:3</sub>
 
 ## BOM
 - 1x Case (From CAD file)
