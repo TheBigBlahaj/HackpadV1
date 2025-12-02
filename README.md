@@ -20,14 +20,13 @@ You'll need to make a I2C wire to plug the OLED into the pin header on the PCB
 |---------------|---------|
 |![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/24ea2686bdf736fe201b03aaaa7aa43ab714c879_image.png)|![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6b7201e25fb772890c47c8185c7b606820831a0e_image.png)|
 
-![]()
+![meow2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2c76e545b5820225a5230012eaa27399d28c0e67_image.png)
 
 Had to redo the routing like 5 times but it should all be good now X3
 
 ## Firmware 
 
-Still a work in progress!!!
-Im using kmk to write it though, I have a lot to learn first tho....\
+Still a work in progress!!! Im using kmk to write it, but I have a lot to learn first tho....\
 <sub>I've never used python before:3</sub>
 
 ## BOM
